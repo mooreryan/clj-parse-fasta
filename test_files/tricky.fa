@@ -1,0 +1,23 @@
+> empty seq at beginning
+>seq1 is fun
+AAC TGG NN N   
+
+
+>seq2
+     AAT     
+CCTGNNN     
+> empty seq 1
+> empty seq 2
+          
+
+>seq3
+yyyyyyyyyy 
+
+     yyyyy    
+NNN
+>seq 4 > has many '>' in header
+ACTG    
+actg
+>seq 5
+          a      c     t     G      
+>empty seq at end
